@@ -6,7 +6,7 @@ The following trial problem was given to me as part of a job application.
 
 Implement a function that can solve the following problem:
 
-Given a number A, find the smallest number which has only 1s and 0s as its digits which are divisible by the number A.
+- [Smallest integer composed of only 1s and 0s which is a factor of a given integer 'A'](https://github.com/johnrice121/portfolio/blob/master/factorsOfOnesZeros)
 
 ## Examples
 
