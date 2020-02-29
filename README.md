@@ -6,6 +6,6 @@ It is intended to be used solely by potential employers who would like to see ex
 
 ## List of Examples
 
-- [Smallest integer composed of only 1s and 0s which is a factor of a given integer 'A'][./factorsOfOnesZeros]
+- [Smallest integer composed of only 1s and 0s which is a factor of a given integer 'A'][../portfolio/factorsOfOnesZeros]
 
 More examples will be posted soon.
